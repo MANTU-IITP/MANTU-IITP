@@ -1,5 +1,5 @@
 ![logo](https://github.com/MANTU-IITP/MANTU-IITP/blob/main/github-header-image(1).png)
-<h1 align="center">Hi 👋, I'm Mantu KUmar</h1>
+<h1 align="center">Hi 👋, I'm Mantu Kumar</h1>
 <h3 align="center">A passionate full-stack-web-developer and data Analytics from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mantu-iitp&label=Profile%20views&color=0e75b6&style=flat" alt="mantu-iitp" /> </p>
